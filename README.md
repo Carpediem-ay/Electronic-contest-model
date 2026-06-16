@@ -1,0 +1,36 @@
+# 各车所需零件
+
+## 车145*200
+
+<img src="C:\Users\Administrator\Desktop\电赛模型\README.assets\image-20260616101959647.png" alt="image-20260616101959647" style="zoom:50%;" />
+
+| 零件                  | 数量 | 链接                                                         |
+| --------------------- | ---- | ------------------------------------------------------------ |
+| mg513x电机            | 2    | [MG513X直流减速电机马达大功率霍尔编码器GMR智能小车底盘MG513XL-tmall.com天猫](https://detail.tmall.com/item.htm?abbucket=16&id=651436337090&mi_id=0000teMy0ZmiHBaZOv6pYrC4Uc5PoD-9lDBOueeftyebE6Y&ns=1&priceTId=213e036f17815757733326454e1095&skuId=5206715687847&spm=a21n57.1.hoverItem.1&utparam={"aplus_abtest"%3A"1b5a534cd72185405ebb8ac0c9fea340"}&xxc=taobaoSearch) |
+| 65mm轮胎              | 2    | [MG513X直流减速电机马达大功率霍尔编码器GMR智能小车底盘MG513XL-tmall.com天猫](https://detail.tmall.com/item.htm?abbucket=16&id=651436337090&mi_id=0000teMy0ZmiHBaZOv6pYrC4Uc5PoD-9lDBOueeftyebE6Y&ns=1&priceTId=213e036f17815757733326454e1095&skuId=5206715687847&spm=a21n57.1.hoverItem.1&utparam={"aplus_abtest"%3A"1b5a534cd72185405ebb8ac0c9fea340"}&xxc=taobaoSearch) |
+| 6mm六角联轴器         | 2    | [MG513X直流减速电机马达大功率霍尔编码器GMR智能小车底盘MG513XL-tmall.com天猫](https://detail.tmall.com/item.htm?abbucket=16&id=651436337090&mi_id=0000teMy0ZmiHBaZOv6pYrC4Uc5PoD-9lDBOueeftyebE6Y&ns=1&priceTId=213e036f17815757733326454e1095&skuId=5206715687847&spm=a21n57.1.hoverItem.1&utparam={"aplus_abtest"%3A"1b5a534cd72185405ebb8ac0c9fea340"}&xxc=taobaoSearch) |
+| mg513x支架            | 2    | [MG513X直流减速电机马达大功率霍尔编码器GMR智能小车底盘MG513XL-tmall.com天猫](https://detail.tmall.com/item.htm?abbucket=16&id=651436337090&mi_id=0000teMy0ZmiHBaZOv6pYrC4Uc5PoD-9lDBOueeftyebE6Y&ns=1&priceTId=213e036f17815757733326454e1095&skuId=5206715687847&spm=a21n57.1.hoverItem.1&utparam={"aplus_abtest"%3A"1b5a534cd72185405ebb8ac0c9fea340"}&xxc=taobaoSearch) |
+| 铜柱M3*20（长度可改） | 4    | [六角铜柱M3M4单头铜螺柱主板螺丝螺母隔离柱双通电路板固定铜支柱-tmall.com天猫](https://detail.tmall.com/item.htm?abbucket=17&id=16885139343&pisk=hP3SMeTkP1sgKz4e0lb8g3auzyzddvyULXeLN-28T0yyJ2wj6uRoLvobdxHbeI8w7ltdDTH5J7Qp9SFQ6qxBrlloZy2dvmcJcHGvTRJRvJHLk-FLOyF8J8UvGWPR2ye8vthY9-eLJyHLHiFgtaFLwwEYk-VCv9QLwreYaWbdyvUpGje09yF-pydjM-VdPAgvIGqMlrnxPB7aVRhXjwnIkNrJpbwAJd3bNF2TvmG-t4Hq94uumGK_-josdDHHbi4S90U8_bY5lPh-0H5c8g3U8p3xxq0tTgYJLmGt7YUflEpS2Y4qeVQDddv7nDumP1xI7CuK4XDP93tyFqgSuDX2pKJs1foqJTYs7Ig-aloFoUohxwg7uFP0h2sg2SV7lIOfFrE8iSwwGIshxuF0giOXGTaA.&rn=84f16c0271822159240f24d5ad6736e7&skuId=3545751969144&spm=a1z10.3-b-s.w4011-21581912015.66.6c9b5535AvVx1d) |
+| 牛眼轮                | 1    | [WHEELTEC牛眼轮 钢球轮 牛眼万向轮 机器人万向轮半寸万向球轴承-tmall.com天猫](https://detail.tmall.com/item.htm?abbucket=17&id=646249753687&pisk=hNssKBqgfqLvihx48U0tZVxGQn-AWsR2gtdvCBAt_iyic-6lNG8vgO-bh6AFbCWwXInfgtSNgtI2Hit2D7kvi9hZsLvJHoRv6pdvEL_uaurPdPpM09B2DeK59L9JDdd96HeBhLJvDFd9JJ9v3fdv6sBLdKAKXVd9HenpFdpvHspvp2pXeAh9BC3KpLdpMnKAM9eB3BdvDnCApZDFv70kl7BJXH2q4FORdzmxt-J9PQ6Ofmnxnd6XvpKSVrRRrC8P96EEfn6ph1RFwunBvU_l3K1_fcKwYTiqWi-4MMQcxgBqSlFVRTIP6HiQv5_OsH5OmcUbGz6lsZCqb7SlDa6AO_ZZn5SHM_WV1cN4y7WFaG1jjuZ7yGXOK_c8XZ0mcGtU4VXiAd89KdtQdJG6vFpHdQyQdq0DWpvERJwI1HC..&rn=e63e31b066428361db5eafda9b0a37f2&skuId=4655443788889&spm=a1z10.3-b-s.w4011-24713677160.25.1f0a7988bsNRwM) |
+
+<img src="C:\Users\Administrator\Desktop\电赛模型\README.assets\image-20260616101037257.png" alt="image-20260616101037257" style="zoom:50%;" />
+
+<img src="C:\Users\Administrator\Desktop\电赛模型\README.assets\image-20260616101424298.png" alt="image-20260616101424298" style="zoom:50%;" />
+
+<img src="C:\Users\Administrator\Desktop\电赛模型\README.assets\image-20260616101516763.png" alt="image-20260616101516763" style="zoom:50%;" />
+
+## 车145直径
+
+<img src="C:\Users\Administrator\Desktop\电赛模型\README.assets\image-20260616102315549.png" alt="image-20260616102315549" style="zoom:50%;" />
+
+| 零件                  | 数量 | 链接                                                         |
+| --------------------- | ---- | ------------------------------------------------------------ |
+| mg310电机             | 2    | [轮趣科技MG310直流减速电机带AB相高精度GMR霍尔编码器MG370马达-tmall.com天猫](https://detail.tmall.com/item.htm?abbucket=17&id=646134254538&pisk=hTGjNGODGNTzjSVwUJjO7QV0u5P9GcrabVETluqA0f8c1FgnAjyTbqP650qrgou4MS00sX6citcby_UZy1UYW_1tmiF9YHR_W6cWbmrTJVAAezEu5sCYHcE8ePZ8kOUxXue8JPCY65ntyUaalZUAHlBJwPaT6OETW7E8-PWA6rEAyUag2lFT6cFJPPq8X5FOoEhJx928TNoqfF5Uhk3WK1dW7rUYAqhf61QglVN8yW1BQkH30Jo-2Q5b14Us0uop9_N8dv0a5mOfMS-el1Wx_5-twAco9VWDMhkSJXoYN_OJcxn0am3lRCcohu0b92_B338bSDmn2ObvcbmrC2hcrQJXf0G8wXQDJjdnDYnKyg-xIOfsG7RFnqf7u-Uul7TWPiN8Hz47YUT5IO2YrzWWPUsbw&rn=da649cd4e7a4927c0f89c5a45579bfb2&skuId=4873959845668&spm=a1z10.3-b-s.w4011-24713677160.49.3ea679884vansX) |
+| 25金属支架            | 2    | [轮趣科技MG310直流减速电机带AB相高精度GMR霍尔编码器MG370马达-tmall.com天猫](https://detail.tmall.com/item.htm?abbucket=17&id=646134254538&pisk=hTGjNGODGNTzjSVwUJjO7QV0u5P9GcrabVETluqA0f8c1FgnAjyTbqP650qrgou4MS00sX6citcby_UZy1UYW_1tmiF9YHR_W6cWbmrTJVAAezEu5sCYHcE8ePZ8kOUxXue8JPCY65ntyUaalZUAHlBJwPaT6OETW7E8-PWA6rEAyUag2lFT6cFJPPq8X5FOoEhJx928TNoqfF5Uhk3WK1dW7rUYAqhf61QglVN8yW1BQkH30Jo-2Q5b14Us0uop9_N8dv0a5mOfMS-el1Wx_5-twAco9VWDMhkSJXoYN_OJcxn0am3lRCcohu0b92_B338bSDmn2ObvcbmrC2hcrQJXf0G8wXQDJjdnDYnKyg-xIOfsG7RFnqf7u-Uul7TWPiN8Hz47YUT5IO2YrzWWPUsbw&rn=da649cd4e7a4927c0f89c5a45579bfb2&skuId=4873959845668&spm=a1z10.3-b-s.w4011-24713677160.49.3ea679884vansX) |
+| 黑色橡胶轮胎          | 2    | [轮趣科技MG310直流减速电机带AB相高精度GMR霍尔编码器MG370马达-tmall.com天猫](https://detail.tmall.com/item.htm?abbucket=17&id=646134254538&pisk=hTGjNGODGNTzjSVwUJjO7QV0u5P9GcrabVETluqA0f8c1FgnAjyTbqP650qrgou4MS00sX6citcby_UZy1UYW_1tmiF9YHR_W6cWbmrTJVAAezEu5sCYHcE8ePZ8kOUxXue8JPCY65ntyUaalZUAHlBJwPaT6OETW7E8-PWA6rEAyUag2lFT6cFJPPq8X5FOoEhJx928TNoqfF5Uhk3WK1dW7rUYAqhf61QglVN8yW1BQkH30Jo-2Q5b14Us0uop9_N8dv0a5mOfMS-el1Wx_5-twAco9VWDMhkSJXoYN_OJcxn0am3lRCcohu0b92_B338bSDmn2ObvcbmrC2hcrQJXf0G8wXQDJjdnDYnKyg-xIOfsG7RFnqf7u-Uul7TWPiN8Hz47YUT5IO2YrzWWPUsbw&rn=da649cd4e7a4927c0f89c5a45579bfb2&skuId=4873959845668&spm=a1z10.3-b-s.w4011-24713677160.49.3ea679884vansX) |
+| 小牛眼轮              | 2    | [塑料尼龙工程小型微型NL-8H万向球POM轮不锈钢输送滚珠牛眼轮-淘宝网](https://item.taobao.com/item.htm?id=583029644003&mi_id=0000EApRRcAxG5RGcd_mArSukcGICZAol_jR4O9M9PVm2CI&spm=tbpc.boughtlist.suborder_itempic.d583029644003.1a292e8dsC37e8&skuId=4818917192872) |
+| 铜柱M3*20（长度可改） | 4    | [六角铜柱M3M4单头铜螺柱主板螺丝螺母隔离柱双通电路板固定铜支柱-tmall.com天猫](https://detail.tmall.com/item.htm?abbucket=17&id=16885139343&pisk=hP3SMeTkP1sgKz4e0lb8g3auzyzddvyULXeLN-28T0yyJ2wj6uRoLvobdxHbeI8w7ltdDTH5J7Qp9SFQ6qxBrlloZy2dvmcJcHGvTRJRvJHLk-FLOyF8J8UvGWPR2ye8vthY9-eLJyHLHiFgtaFLwwEYk-VCv9QLwreYaWbdyvUpGje09yF-pydjM-VdPAgvIGqMlrnxPB7aVRhXjwnIkNrJpbwAJd3bNF2TvmG-t4Hq94uumGK_-josdDHHbi4S90U8_bY5lPh-0H5c8g3U8p3xxq0tTgYJLmGt7YUflEpS2Y4qeVQDddv7nDumP1xI7CuK4XDP93tyFqgSuDX2pKJs1foqJTYs7Ig-aloFoUohxwg7uFP0h2sg2SV7lIOfFrE8iSwwGIshxuF0giOXGTaA.&rn=84f16c0271822159240f24d5ad6736e7&skuId=3545751969144&spm=a1z10.3-b-s.w4011-21581912015.66.6c9b5535AvVx1d) |
+
+<img src="C:\Users\Administrator\Desktop\电赛模型\README.assets\image-20260616102413976.png" alt="image-20260616102413976" style="zoom:50%;" />
+
+<img src="C:\Users\Administrator\Desktop\电赛模型\README.assets\image-20260616102613456.png" alt="image-20260616102613456" style="zoom:50%;" />
