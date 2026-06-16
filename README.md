@@ -2,7 +2,7 @@
 
 ## 车145*200
 
-<img src="C:\Users\Administrator\Desktop\电赛模型\README.assets\image-20260616101959647.png" alt="image-20260616101959647" style="zoom:50%;" />
+![MG513X电机支架](README.assets/image-20260616101959647.png)
 
 | 零件                  | 数量 | 链接                                                         |
 | --------------------- | ---- | ------------------------------------------------------------ |
@@ -13,15 +13,15 @@
 | 铜柱M3*20（长度可改） | 4    | [六角铜柱M3M4单头铜螺柱主板螺丝螺母隔离柱双通电路板固定铜支柱-tmall.com天猫](https://detail.tmall.com/item.htm?abbucket=17&id=16885139343&pisk=hP3SMeTkP1sgKz4e0lb8g3auzyzddvyULXeLN-28T0yyJ2wj6uRoLvobdxHbeI8w7ltdDTH5J7Qp9SFQ6qxBrlloZy2dvmcJcHGvTRJRvJHLk-FLOyF8J8UvGWPR2ye8vthY9-eLJyHLHiFgtaFLwwEYk-VCv9QLwreYaWbdyvUpGje09yF-pydjM-VdPAgvIGqMlrnxPB7aVRhXjwnIkNrJpbwAJd3bNF2TvmG-t4Hq94uumGK_-josdDHHbi4S90U8_bY5lPh-0H5c8g3U8p3xxq0tTgYJLmGt7YUflEpS2Y4qeVQDddv7nDumP1xI7CuK4XDP93tyFqgSuDX2pKJs1foqJTYs7Ig-aloFoUohxwg7uFP0h2sg2SV7lIOfFrE8iSwwGIshxuF0giOXGTaA.&rn=84f16c0271822159240f24d5ad6736e7&skuId=3545751969144&spm=a1z10.3-b-s.w4011-21581912015.66.6c9b5535AvVx1d) |
 | 牛眼轮                | 1    | [WHEELTEC牛眼轮 钢球轮 牛眼万向轮 机器人万向轮半寸万向球轴承-tmall.com天猫](https://detail.tmall.com/item.htm?abbucket=17&id=646249753687&pisk=hNssKBqgfqLvihx48U0tZVxGQn-AWsR2gtdvCBAt_iyic-6lNG8vgO-bh6AFbCWwXInfgtSNgtI2Hit2D7kvi9hZsLvJHoRv6pdvEL_uaurPdPpM09B2DeK59L9JDdd96HeBhLJvDFd9JJ9v3fdv6sBLdKAKXVd9HenpFdpvHspvp2pXeAh9BC3KpLdpMnKAM9eB3BdvDnCApZDFv70kl7BJXH2q4FORdzmxt-J9PQ6Ofmnxnd6XvpKSVrRRrC8P96EEfn6ph1RFwunBvU_l3K1_fcKwYTiqWi-4MMQcxgBqSlFVRTIP6HiQv5_OsH5OmcUbGz6lsZCqb7SlDa6AO_ZZn5SHM_WV1cN4y7WFaG1jjuZ7yGXOK_c8XZ0mcGtU4VXiAd89KdtQdJG6vFpHdQyQdq0DWpvERJwI1HC..&rn=e63e31b066428361db5eafda9b0a37f2&skuId=4655443788889&spm=a1z10.3-b-s.w4011-24713677160.25.1f0a7988bsNRwM) |
 
-<img src="C:\Users\Administrator\Desktop\电赛模型\README.assets\image-20260616101037257.png" alt="image-20260616101037257" style="zoom:50%;" />
+<img src="README.assets/image-20260616101037257.png" alt="描述" style="zoom:50%;" />
 
-<img src="C:\Users\Administrator\Desktop\电赛模型\README.assets\image-20260616101424298.png" alt="image-20260616101424298" style="zoom:50%;" />
+<img src="README.assets/image-20260616101424298.png" alt="描述" style="zoom:50%;" />
 
-<img src="C:\Users\Administrator\Desktop\电赛模型\README.assets\image-20260616101516763.png" alt="image-20260616101516763" style="zoom:50%;" />
+<img src="README.assets/image-20260616101516763.png" alt="描述" style="zoom:50%;" />
 
 ## 车145直径
 
-<img src="C:\Users\Administrator\Desktop\电赛模型\README.assets\image-20260616102315549.png" alt="image-20260616102315549" style="zoom:50%;" />
+<img src="README.assets/image-20260616102315549.png" alt="描述" style="zoom:50%;" />
 
 | 零件                  | 数量 | 链接                                                         |
 | --------------------- | ---- | ------------------------------------------------------------ |
@@ -31,6 +31,6 @@
 | 小牛眼轮              | 2    | [塑料尼龙工程小型微型NL-8H万向球POM轮不锈钢输送滚珠牛眼轮-淘宝网](https://item.taobao.com/item.htm?id=583029644003&mi_id=0000EApRRcAxG5RGcd_mArSukcGICZAol_jR4O9M9PVm2CI&spm=tbpc.boughtlist.suborder_itempic.d583029644003.1a292e8dsC37e8&skuId=4818917192872) |
 | 铜柱M3*20（长度可改） | 4    | [六角铜柱M3M4单头铜螺柱主板螺丝螺母隔离柱双通电路板固定铜支柱-tmall.com天猫](https://detail.tmall.com/item.htm?abbucket=17&id=16885139343&pisk=hP3SMeTkP1sgKz4e0lb8g3auzyzddvyULXeLN-28T0yyJ2wj6uRoLvobdxHbeI8w7ltdDTH5J7Qp9SFQ6qxBrlloZy2dvmcJcHGvTRJRvJHLk-FLOyF8J8UvGWPR2ye8vthY9-eLJyHLHiFgtaFLwwEYk-VCv9QLwreYaWbdyvUpGje09yF-pydjM-VdPAgvIGqMlrnxPB7aVRhXjwnIkNrJpbwAJd3bNF2TvmG-t4Hq94uumGK_-josdDHHbi4S90U8_bY5lPh-0H5c8g3U8p3xxq0tTgYJLmGt7YUflEpS2Y4qeVQDddv7nDumP1xI7CuK4XDP93tyFqgSuDX2pKJs1foqJTYs7Ig-aloFoUohxwg7uFP0h2sg2SV7lIOfFrE8iSwwGIshxuF0giOXGTaA.&rn=84f16c0271822159240f24d5ad6736e7&skuId=3545751969144&spm=a1z10.3-b-s.w4011-21581912015.66.6c9b5535AvVx1d) |
 
-<img src="C:\Users\Administrator\Desktop\电赛模型\README.assets\image-20260616102413976.png" alt="image-20260616102413976" style="zoom:50%;" />
+<img src="README.assets/image-20260616102413976.png" alt="描述" style="zoom:50%;" />
 
-<img src="C:\Users\Administrator\Desktop\电赛模型\README.assets\image-20260616102613456.png" alt="image-20260616102613456" style="zoom:50%;" />
+<img src="README.assets/image-20260616102613456.png" alt="描述" style="zoom:50%;" />
